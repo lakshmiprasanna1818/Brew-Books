@@ -1,0 +1,129 @@
+[
+    {
+        "user": "dexter",
+        "category": "Food",
+        "item": "Sandwich",
+        "timestamp": "2025-09-08T10:33:39.532017"
+    },
+    {
+        "user": "dexter",
+        "category": "Cafe Specials",
+        "item": "Muffins",
+        "timestamp": "2025-09-08T10:33:52.860650"
+    },
+    {
+        "user": "dexter",
+        "category": "Beverages",
+        "item": "Coffee",
+        "timestamp": "2025-09-08T10:34:46.454105"
+    },
+    {
+        "customer_email": "paul@gmail.com",
+        "customer_name": "Paul",
+        "items": [
+            {
+                "category": "Beverages",
+                "item": "Coffee",
+                "price": 3
+            },
+            {
+                "category": "Books",
+                "item": "1984",
+                "price": 12
+            },
+            {
+                "category": "Food",
+                "item": "Sandwich",
+                "price": 5
+            }
+        ],
+        "address": "1, rathbourne avenue",
+        "payment": "Cash",
+        "notes": "",
+        "total_amount": 20,
+        "timestamp": "2025-09-09T06:49:52.669074"
+    },
+    {
+        "customer_email": "dorathy@gmail.com",
+        "customer_name": "dora",
+        "items": [
+            {
+                "category": "Food",
+                "item": "Sandwich",
+                "price": 5
+            },
+            {
+                "category": "Cafe Specials",
+                "item": "Muffins",
+                "price": 3
+            }
+        ],
+        "address": "1E rathbourne",
+        "payment": "Cash",
+        "notes": "asap",
+        "total_amount": 8,
+        "timestamp": "2025-09-09T09:59:02.895272"
+    },
+    {
+        "customer_email": "cathy@gmail.com",
+        "customer_name": "cathy",
+        "items": [
+            {
+                "category": "Beverages",
+                "item": "Tea",
+                "price": 2
+            },
+            {
+                "category": "Food",
+                "item": "Salad",
+                "price": 6
+            },
+            {
+                "category": "Books",
+                "item": "Atomic Habits",
+                "price": 14
+            }
+        ],
+        "address": "cathy@gmail.com",
+        "payment": "Card",
+        "notes": "asap",
+        "total_amount": 22,
+        "timestamp": "2025-09-09T10:20:17.828644"
+    },
+    {
+        "order_id": "ORD20250909114127",
+        "customer_email": "& \"c:/users/dorathy s r/appdata/local/microsoft/windowsapps/python3.13.exe\" \"c:/users/dorathy s r/desktop/python practice/book and cafe/menu_page.py\"",
+        "customer_name": "da",
+        "items": [
+            {
+                "category": "Food",
+                "item": "Sandwich",
+                "price": 5,
+                "quantity": 2,
+                "subtotal": 10,
+                "desc": "Freshly made sandwich with veggies and cheese"
+            },
+            {
+                "category": "Cafe Specials",
+                "item": "Muffins",
+                "price": 3,
+                "quantity": 2,
+                "subtotal": 6,
+                "desc": "Soft chocolate chip muffins"
+            },
+            {
+                "category": "Books",
+                "item": "Harry Potter",
+                "price": 15,
+                "quantity": 1,
+                "subtotal": 15,
+                "desc": "Magical fantasy novel by J.K. Rowling"
+            }
+        ],
+        "address": "da",
+        "payment": "Da",
+        "notes": "da",
+        "total_amount": 31,
+        "timestamp": "2025-09-09T11:41:27.751633"
+    }
+]

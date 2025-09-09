@@ -1,0 +1,18 @@
+2025-09-08 10:33:29,332 - INFO - Customer dexter logged in!
+2025-09-08 10:33:37,745 - DEBUG - dexter selected menu option: 1
+2025-09-08 10:33:39,533 - INFO - dexter ordered Sandwich from Food
+2025-09-08 10:33:49,544 - DEBUG - dexter selected menu option: 3
+2025-09-08 10:33:52,861 - INFO - dexter ordered Muffins from Cafe Specials
+2025-09-08 10:34:44,346 - DEBUG - dexter selected menu option: 2
+2025-09-08 10:34:46,455 - INFO - dexter ordered Coffee from Beverages
+2025-09-08 10:43:15,474 - DEBUG - dexter selected menu option: & "C:/Users/Dorathy S R/AppData/Local/Microsoft/WindowsApps/python3.13.exe" "c:/Users/Dorathy S R/Desktop/python practice/book and cafe/main.py"
+2025-09-08 10:43:15,497 - ERROR - Invalid menu choice!
+2025-09-08 10:43:23,816 - DEBUG - dexter selected menu option: 4
+2025-09-08 10:43:23,816 - INFO - dexter logged out.
+2025-09-08 10:43:26,627 - INFO - Program exited.
+2025-09-08 10:43:43,841 - INFO - Customer dexter logged in!
+2025-09-08 10:43:47,466 - DEBUG - dexter selected menu option: 4
+2025-09-09 06:48:23,079 - DEBUG - No valid item selected, returning to menu.
+2025-09-09 06:48:24,736 - DEBUG - dexter selected menu option: 5
+2025-09-09 06:48:24,736 - INFO - dexter logged out.
+2025-09-09 06:48:26,443 - INFO - Program exited.

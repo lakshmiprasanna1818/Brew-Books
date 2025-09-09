@@ -1,0 +1,38 @@
+[
+    {
+        "email": "dorathy@gmail.com",
+        "name": "dora",
+        "password_hash": "69db31976ead37b85cc42a49c95fd06eec99cfd9b7ff219a25c0f59cb4049343",
+        "created_at": "2025-09-08T09:06:05.485853"
+    },
+    {
+        "email": "rathi@gmail.com",
+        "name": "rathi",
+        "password_hash": "85fac80b9d79c5f6a6e325417e4f226d2988cc8c0ba1a55bd9b025745afa6767",
+        "created_at": "2025-09-08T09:38:08.791586"
+    },
+    {
+        "email": "dexter@gmail.com",
+        "name": "dexter",
+        "password_hash": "8c3bc97b36d17f130bd5dfef659955c2ac02148e5ac4bbea87cddaa8f76405ee",
+        "created_at": "2025-09-08T10:22:22.676776"
+    },
+    {
+        "email": "paul@gmail.com",
+        "name": "Paul",
+        "password_hash": "0357513deb903a056e74a7e475247fc1ffe31d8be4c1d4a31f58dd47ae484100",
+        "created_at": "2025-09-09T06:49:26.611587"
+    },
+    {
+        "email": "cathy@gmail.com",
+        "name": "cathy",
+        "password_hash": "67c632a353f631c870c5050e2c661b8c26137b6b52085b0bf09ed41aabbe8982",
+        "created_at": "2025-09-09T10:19:35.852900"
+    },
+    {
+        "email": "& \"c:/users/dorathy s r/appdata/local/microsoft/windowsapps/python3.13.exe\" \"c:/users/dorathy s r/desktop/python practice/book and cafe/menu_page.py\"",
+        "name": "da",
+        "password_hash": "aa58b21b01d6b8a99c1a5856962dbac36c758a79dc0a77c2e013ce2c39ecdc8a",
+        "created_at": "2025-09-09T11:41:24.400784"
+    }
+]

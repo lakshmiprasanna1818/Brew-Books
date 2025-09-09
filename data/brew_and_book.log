@@ -1,0 +1,28 @@
+2025-09-09 06:48:50,948 - INFO - Added Coffee (€3) to cart
+2025-09-09 06:48:59,723 - INFO - Added 1984 (€12) to cart
+2025-09-09 06:49:07,554 - INFO - Added Sandwich (€5) to cart
+2025-09-09 06:49:26,612 - INFO - Customer Paul registered successfully!
+2025-09-09 06:49:52,670 - INFO - Order placed successfully for Paul - Total €20
+2025-09-09 09:58:12,181 - INFO - Added Sandwich (€5) to cart
+2025-09-09 09:58:33,024 - INFO - Added Muffins (€3) to cart
+2025-09-09 09:58:45,502 - INFO - Customer dora logged in!
+2025-09-09 09:59:02,899 - INFO - Order placed successfully for dora - Total €8
+2025-09-09 10:18:26,660 - INFO - Program exited.
+2025-09-09 10:19:02,829 - INFO - Added Tea (€2) to cart
+2025-09-09 10:19:07,893 - INFO - Added Salad (€6) to cart
+2025-09-09 10:19:13,844 - INFO - Added Atomic Habits (€14) to cart
+2025-09-09 10:19:35,854 - INFO - Customer cathy registered successfully!
+2025-09-09 10:20:17,830 - INFO - Order placed successfully for cathy - Total €22
+2025-09-09 11:11:28,828 - ERROR - Invalid option on front page!
+2025-09-09 11:11:44,460 - INFO - Program exited.
+2025-09-09 11:19:20,700 - INFO - Program exited.
+2025-09-09 11:24:10,667 - ERROR - Invalid option on front page!
+2025-09-09 11:24:22,867 - INFO - Added Coffee (€3) to cart
+2025-09-09 11:24:30,614 - INFO - Added Cheesecake (€4) to cart
+2025-09-09 11:33:14,014 - ERROR - Invalid option on front page!
+2025-09-09 11:33:26,214 - INFO - Added 2 x Sandwich (€10) to cart
+2025-09-09 11:33:35,723 - INFO - Added 2 x Muffins (€6) to cart
+2025-09-09 11:33:48,960 - INFO - Added 1 x Harry Potter (€15) to cart
+2025-09-09 11:41:24,409 - INFO - Customer da registered successfully!
+2025-09-09 11:41:27,756 - INFO - Order ORD20250909114127 placed successfully for da - Total €31
+2025-09-09 11:41:29,691 - INFO - Program exited.
